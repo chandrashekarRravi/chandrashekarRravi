@@ -112,11 +112,10 @@ I continuously practice DSA for strong problem-solving ability.
 # 📊 GitHub Analytics
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashekarRravi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashekarRravi&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekarRravi&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekarRravi&layout=compact&theme=tokyonight&cache_seconds=1800)
 ## ⚡ GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=chandrashekarRravi&theme=tokyonight)
 
