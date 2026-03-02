@@ -2,7 +2,7 @@
 ### Full-Stack Engineer | MERN Architect | System Design Learner | DSA Enthusiast  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Engineer;React+Performance+Specialist;Backend+API+Architect;System+Design+Enthusiast;DSA+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=FBF6F6&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Engineer;React+Performance+Specialist;Backend+API+Architect;System+Design+Enthusiast;DSA+Problem+Solver;UI UX designer;SEO Specialist" />
 </p>
 
 ---
