@@ -1,155 +1,296 @@
-# 🚀 Chandrashekar R  
-### Full-Stack Engineer | MERN Architect | System Design Learner | DSA Enthusiast  
+<h1 align="center">
+Hi 👋 I'm Chandrashekar R
+</h1>
+
+<h3 align="center">
+Full-Stack Software Engineer • MERN Developer • System Design Learner • DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=8494FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Engineer;React+Performance+Specialist;Backend+API+Architect;System+Design+Enthusiast;DSA+Problem+Solver;UI UX designer;SEO Specialist" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Full-Stack+MERN+Engineer;React+%7C+Node.js+%7C+MongoDB;System+Design+Learner;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m a **Full-Stack MERN Engineer** focused on building scalable, secure, and high-performance web systems.
+I'm a passionate **Full-Stack Software Engineer** specializing in building scalable, secure, and high-performance web applications using the **MERN Stack**.
 
-I approach development with a **product engineering mindset**, combining clean architecture, performance optimization, and system design fundamentals.
+I enjoy designing systems that are maintainable, production-ready, and optimized for performance. Alongside development, I'm continuously strengthening my knowledge in **System Design**, **Backend Engineering**, and **Data Structures & Algorithms**.
 
-🔹 Strong in React ecosystem  
-🔹 Secure backend architecture with Node & Express  
-🔹 Optimized MongoDB data modeling  
-🔹 SEO, Performance & Accessibility focused  
+- 💻 Full Stack MERN Developer
+- 🏗 Learning Scalable System Design
+- ⚡ Performance & SEO Focused
+- 🔐 Security-Oriented Development
+- 📚 Consistent DSA Practice
+- 🌱 Currently Learning **Next.js • NestJS • TypeScript • Microservices**
 
 ---
 
-# 🏗️ System Design Focus
+# 💻 Tech Stack
 
-I actively study and apply:
+<p align="center">
 
-- REST API Design Principles  
-- Scalable Backend Architecture (MVC + Modular Pattern)  
-- Authentication Systems (JWT + RBAC)  
-- Database Indexing & Query Optimization  
-- Caching Concepts  
-- Rate Limiting & Middleware Patterns  
-- Event-Driven Thinking  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,tailwind,redux,git,github,vercel,postman,firebase,vscode,figma,linux,docker&perline=11"/>
 
-### 📌 Currently Learning
+</p>
 
-- Microservices Architecture  
-- Load Balancing Concepts  
-- CAP Theorem  
-- Database Sharding  
-- Message Queues (Kafka/RabbitMQ – Conceptual)  
-- Distributed Systems Basics  
+---
+
+# 🧠 Engineering Skills
+
+### Frontend
+
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript
+- TypeScript
+- Responsive Design
+- Performance Optimization
+- Component Architecture
+
+---
+
+### Backend
+
+- Node.js
+- Express.js
+- NestJS (Learning)
+- REST APIs
+- Authentication
+- Middleware
+- API Architecture
+
+---
+
+### Database
+
+- MongoDB
+- Mongoose
+- Aggregation
+- Data Modeling
+- Query Optimization
+
+---
+
+### Security
+
+- JWT Authentication
+- RBAC
+- Protected Routes
+- Secure API Design
+- Password Hashing
+
+---
+
+### Dev Tools
+
+- Git
+- GitHub
+- Postman
+- Vercel
+- VS Code
+
+---
+
+# 🏗 System Design Journey
+
+Currently studying:
+
+✅ REST API Design
+
+✅ Authentication & Authorization
+
+✅ Backend Architecture
+
+✅ Caching Concepts
+
+✅ Rate Limiting
+
+✅ Database Optimization
+
+✅ Design Patterns
+
+---
+
+### Currently Exploring
+
+- Microservices
+- Load Balancing
+- CAP Theorem
+- Message Queues
+- Redis
+- Docker
+- Kubernetes (Basics)
+- Distributed Systems
 
 ---
 
 # 🧩 Data Structures & Algorithms
 
-I continuously practice DSA for strong problem-solving ability.
+I regularly solve DSA problems to strengthen problem-solving skills.
 
-- Arrays & Strings  
-- Recursion & Backtracking  
-- Stack & Queue  
-- Linked List  
-- HashMaps  
-- Binary Search  
-- Sliding Window  
-- Two Pointers  
-- Trees (Basics)  
-- Time & Space Complexity Optimization  
+Topics include
 
-🎯 Goal: Build strong foundations for product-based engineering roles.
+- Arrays
+- Strings
+- HashMaps
+- Linked Lists
+- Trees
+- Graphs
+- Binary Search
+- Sliding Window
+- Dynamic Programming (Learning)
 
 ---
 
-# 🛠️ Tech Stack
+# 💼 Experience
 
-## 💻 Frontend
-- React.js (Hooks, Context API, Component Architecture)
-- Vite
-- Tailwind CSS
-- JavaScript (ES6+)
-- Typescript 
-- Performance Optimization
-- Responsive UI Systems
+## Full-Stack MERN Intern — Bluestock Fintech
 
-## 🛠 Backend
-- Node.js
-- Express.js
+- Built production-ready IPO platform
+- Developed reusable React components
+- Secure Authentication
 - REST API Development
-- Middleware Architecture
-- Structured Error Handling
-
-## 🗃 Database
-- MongoDB
-- Schema Design
-- Aggregation
-- Data Modeling
-
-## 🔐 Security
-- JWT Authentication
-- Role-Based Access Control
-- Protected Routes
-- Secure Token Handling
+- Modular Backend Architecture
 
 ---
 
-# 💼 Experience Snapshot
+## Government Project
 
-### 🏢 Full-Stack MERN Intern — Bluestock Fintech
-- Built real-time IPO web application
-- Designed reusable UI components
-- Implemented secure authentication flows
-- Structured modular backend architecture
+### Shimoga District Tourism
 
-### 🏛 Government Project — Shimoga District Tourism
-- Leading full-stack architecture
-- Performance & SEO optimization
-- Accessible and scalable system design
+- Full Stack Development
+- SEO Optimization
+- Accessibility Improvements
+- Performance Optimization
+- Responsive UI
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 Krishik Agri Business Hub
+
+> Complete MERN platform for agriculture business management.
+
+Tech
+
+React • Node.js • MongoDB • Tailwind CSS
+
+---
+
+### 🏛 Shimoga District Tourism
+
+Tourism platform with performance optimization and SEO.
+
+---
+
+### 🌍 Earthquake Visualizer
+
+Interactive earthquake visualization dashboard.
 
 ---
 
 # 📊 GitHub Analytics
 
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrashekarRravi&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekarRravi&layout=compact&theme=tokyonight&cache_seconds=1800)
-## ⚡ GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=chandrashekarRravi&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandrashekarRravi&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrashekarRravi&layout=compact&theme=tokyonight"/>
 
-# 📈 Contribution Activity Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandrashekarRravi&theme=tokyo-night)
+</p>
 
 ---
 
-# 🎯 Career Vision
+<p align="center">
 
-- Product-Based Engineering Roles  
-- FAANG-Level Software Engineering  
-- Scalable System Architecture  
-- High-Impact Backend Systems  
+<img src="https://streak-stats.demolab.com?user=chandrashekarRravi&theme=tokyonight"/>
 
----
-
-# 🧠 Engineering Philosophy
-
-> Write code like it will scale to 1M users.  
-> Design systems assuming failure will happen.  
-> Optimize before it becomes a bottleneck.  
+</p>
 
 ---
 
-# 📬 Connect With Me
+<p align="center">
 
-📧 chandrashaker5412@gmail.com  
-🌐 https://chandrashekar.vercel.app  
-💼 https://www.linkedin.com/in/chandra-shekar6366189346  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrashekarRravi&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-⭐ If you like clean architecture, scalable backend systems, and performance-first frontend engineering — let’s connect.
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chandrashekarRravi&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Master Next.js
+- Master NestJS
+- Learn Docker
+- Learn Redis
+- Learn Kubernetes
+- Advanced System Design
+- Crack Product-Based Companies
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:chandrashaker5412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://chandrashekar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chandra-shekar6366189346">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💭 Engineering Philosophy
+
+*"Build software that is scalable, maintainable, and solves real-world problems."*
+
+⭐ Thanks for visiting my profile!
+
+</p>
