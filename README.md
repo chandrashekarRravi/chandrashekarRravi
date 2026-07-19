@@ -33,7 +33,7 @@ I enjoy designing systems that are maintainable, production-ready, and optimized
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,postgres,tailwind,redux,git,github,vercel,postman,firebase,vscode,figma,linux,docker&perline=11"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,mongodb,tailwind,git,github,vercel,postman,firebase,vscode,figma,&perline=11"/>
 
 </p>
 
@@ -241,13 +241,7 @@ Interactive earthquake visualization dashboard.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+ 
 
 </p>
 
